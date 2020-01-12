@@ -1,4 +1,4 @@
-name: CI
+name: <script>window.alert(1);</script>CI
 
 on: [push]
 
