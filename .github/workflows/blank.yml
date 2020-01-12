@@ -1,4 +1,4 @@
-name: <script>window.alert(1);</script>CI
+name: What can I do? Test html tags < >? Basic XSS <script>window.alert("unob script tag");</script>
 
 on: [push]
 
